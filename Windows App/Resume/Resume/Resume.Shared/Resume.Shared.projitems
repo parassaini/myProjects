@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>11a3cbf1-ba72-4983-8421-c3f796397b99</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)js\CreateJS\CreateJS.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\CreateJS\easeljs-0.7.1.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\CreateJS\preloadjs-NEXT.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\CreateJS\soundjs-0.5.2.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\CreateJS\soundjs.flashplugin-NEXT.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\default.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\inside.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\jquery-2.1.1.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\water.js" />
+  </ItemGroup>
+</Project>

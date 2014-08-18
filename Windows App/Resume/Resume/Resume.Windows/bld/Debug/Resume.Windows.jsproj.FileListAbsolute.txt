@@ -1,0 +1,15 @@
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bin\Debug\ReverseMap\resources.pri
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bin\Debug\Resume.Windows.build.appxrecipe
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\priconfig.xml
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\priconfig.xml.intermediate
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\layout.resfiles
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\layout.resfiles.intermediate
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\resources.resfiles
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\resources.resfiles.intermediate
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\pri.resfiles
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\pri.resfiles.intermediate
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\qualifiers.txt
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAURAV</Machine>
+    <WindowsUser>Gaur</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c97861b5-7ea3-4a3c-8788-478c57395a96</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\castle_clear.mp3">
+      <PackagePath>castle_clear.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\jump.mp3">
+      <PackagePath>jump.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\Thunder1.mp3">
+      <PackagePath>Thunder1.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\css\inside.css">
+      <PackagePath>css\inside.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\css\water.css">
+      <PackagePath>css\water.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\finish.html">
+      <PackagePath>finish.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\inside.html">
+      <PackagePath>inside.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\water.html">
+      <PackagePath>water.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\1.jpg">
+      <PackagePath>images\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\18.jpg">
+      <PackagePath>images\18.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\5851.jpg">
+      <PackagePath>images\5851.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\5852.jpg">
+      <PackagePath>images\5852.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\5853 - Copy.jpg">
+      <PackagePath>images\5853 - Copy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\5855.jpg">
+      <PackagePath>images\5855.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\ban.jpg">
+      <PackagePath>images\ban.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\ban1.jpg">
+      <PackagePath>images\ban1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\ban2.jpg">
+      <PackagePath>images\ban2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\bo.jpg">
+      <PackagePath>images\bo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\br.jpg">
+      <PackagePath>images\br.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\13.jpg">
+      <PackagePath>images\13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\bg.jpg">
+      <PackagePath>images\bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\br1.jpg">
+      <PackagePath>images\br1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\hired-sign.jpg">
+      <PackagePath>images\hired-sign.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\inside.jpg">
+      <PackagePath>images\inside.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\qu - Copy.jpg">
+      <PackagePath>images\qu - Copy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\ban - Copy.png">
+      <PackagePath>images\ban - Copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\ban1 - Copy.png">
+      <PackagePath>images\ban1 - Copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\ban2 - Copy.png">
+      <PackagePath>images\ban2 - Copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\bo - Copy.png">
+      <PackagePath>images\bo - Copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pipe.png">
+      <PackagePath>images\pipe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl1.png">
+      <PackagePath>images\pl1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl10.png">
+      <PackagePath>images\pl10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl11.png">
+      <PackagePath>images\pl11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl12.png">
+      <PackagePath>images\pl12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl13.png">
+      <PackagePath>images\pl13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl14.png">
+      <PackagePath>images\pl14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl15.png">
+      <PackagePath>images\pl15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl16.png">
+      <PackagePath>images\pl16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl2.png">
+      <PackagePath>images\pl2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl3.png">
+      <PackagePath>images\pl3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl4.png">
+      <PackagePath>images\pl4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl5.png">
+      <PackagePath>images\pl5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl6.png">
+      <PackagePath>images\pl6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl7.png">
+      <PackagePath>images\pl7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl8.png">
+      <PackagePath>images\pl8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\pl9.png">
+      <PackagePath>images\pl9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\runningGrantSmall.png">
+      <PackagePath>images\runningGrantSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\splashscreen.scale-140.png">
+      <PackagePath>images\splashscreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\splashscreen.scale-180.png">
+      <PackagePath>images\splashscreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\images\untitled-1.png">
+      <PackagePath>images\untitled-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Shared\js\CreateJS\CreateJS.js">
+      <PackagePath>js\CreateJS\CreateJS.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Shared\js\CreateJS\easeljs-0.7.1.min.js">
+      <PackagePath>js\CreateJS\easeljs-0.7.1.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Shared\js\CreateJS\preloadjs-NEXT.min.js">
+      <PackagePath>js\CreateJS\preloadjs-NEXT.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Shared\js\CreateJS\soundjs-0.5.2.min.js">
+      <PackagePath>js\CreateJS\soundjs-0.5.2.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Shared\js\CreateJS\soundjs.flashplugin-NEXT.min.js">
+      <PackagePath>js\CreateJS\soundjs.flashplugin-NEXT.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Shared\js\inside.js">
+      <PackagePath>js\inside.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Shared\js\jquery-2.1.1.min.js">
+      <PackagePath>js\jquery-2.1.1.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Shared\js\water.js">
+      <PackagePath>js\water.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaur\Documents\cordova\Resume\Resume\Resume.Windows\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
